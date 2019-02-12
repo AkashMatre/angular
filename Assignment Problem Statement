@@ -1,0 +1,5 @@
+1. Create Model driven form for following
+	-Product Name must start with uppercase , must not have number and any 2 blank space are allowed for multiword  ProductName.
+	- Make sure that category name is selected for submiting product to collection.
+	-Write validation that will check uniquiness of product id.
+*********** angular > productformcomponent > app.productform.component
