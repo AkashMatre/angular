@@ -2,4 +2,14 @@
 	-Product Name must start with uppercase , must not have number and any 2 blank space are allowed for multiword  ProductName.
 	- Make sure that category name is selected for submiting product to collection.
 	-Write validation that will check uniquiness of product id.
-*********** angular > productformcomponent > app.productform.component
+*********** PATH:- angular > productformcomponent > app.productform.component
+
+
+6. Add login component in ng app which will have 2 routes in it
+	- the default routes should show usename , password , textboxes , sign in and cancel buttons.
+	-When the userName is enter along with password and sign in button is clicked authenticated used if it is found.
+	-If not authenticated then show the error page with the link for registration.
+	-Link should contain username , password , confirm password, signup button.
+	-When usename is entered in the box the system should verify username is available. password and confirm password must match.
+	
+	PATH:- angular > useauthcomponent > app.user.auth.component.ts
