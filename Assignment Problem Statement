@@ -5,7 +5,7 @@
 *********** PATH:- angular > productformcomponent > app.productform.component
 
 
-6. Add login component in ng app which will have 2 routes in it
+2. Add login component in ng app which will have 2 routes in it
 	- the default routes should show usename , password , textboxes , sign in and cancel buttons.
 	-When the userName is enter along with password and sign in button is clicked authenticated used if it is found.
 	-If not authenticated then show the error page with the link for registration.
